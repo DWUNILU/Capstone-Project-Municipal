@@ -1,0 +1,16 @@
+# R specific
+.Rhistory
+.RData
+.Rproj.user/
+
+# Data files
+/data/raw/
+/data/processed/
+
+# Output files
+/data/MunicipalityInformation_Lucerne.xlsx
+
+# System files
+.DS_Store
+Thumbs.db
+
