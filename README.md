@@ -1,6 +1,6 @@
 # Capstone-Project-Municipal
 
-# Municipality Information of Canton Lucerne
+## Municipality Information of Canton Lucerne
 
 This project aims to research the contact information of municipal clerks and mayors from the municipalities in the Canton of Lucerne.
 By scraping their respective websites and storing the data in an Excel file.
