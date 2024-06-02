@@ -18,5 +18,6 @@ The project consists of the following parts:
 I was unable to fully automate the data extraction process due to the varying structures of the different municipalities' homepages. Each site uses different HTML structures and selectors, which made it challenging to create a unified scraping script. As a result, I had to implement individual scraping logic for each municipality to correctly extract the required information.
 
 ## Acknowledgments
-Special thanks to the municipalities of Luzern, Emmen, Kriens, Horw, and Ebikon for providing publicly accessible contact information on their websites :)
+Special thanks to the municipalities of Luzern, Emmen, Kriens, Horw, Ebikon, Sursee, Willisau, Hochdorf, Escholzmatt-Marbach and Adligenswil
+ for providing publicly accessible contact information on their websites :)
 
